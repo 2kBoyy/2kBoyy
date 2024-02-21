@@ -1,6 +1,6 @@
 Hellow ! I'm 2kBoy and I just added y to my pseudo because 2kBoy was already taken...
-I'm a teenager who is interested by videgames and music apps,
-But I don't know how to program.
+I'm a teenager who is interested in videgames and music apps,
+But I don't know how to program. Yet.
 
 But I'll learn !! (I hope...)
 
