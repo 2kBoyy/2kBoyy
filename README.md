@@ -1,3 +1,3 @@
-Hellow ! I'm 2kBoy (Just added y to my pseudo because 2kBoy was already taken...)
-I'm a teenager interested in computer science and musical wizardry
-But I don't know how to code. Yet.
+Hellow ! I'm HoraceMakeMusic, a computer science student and music hobbyist
+I'm preparing some project related with these two domains.
+Stay tuned !
